@@ -24,4 +24,4 @@
 > **Important:** You need to have ruby installed in order to run the server.
 
 ## 📦 Building
-> In case you want to add features or fork this project, just clone this repository and open the `server.rb` file in `own/src/net/` to start up the server.
+> In case you want to add features or fork this project, just clone this repository and run the `server.rb` file in `own/src/net/` to start up the server.
